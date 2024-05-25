@@ -1,0 +1,11 @@
+$base-text-color: #3D3D3D;
+$red-text-color: #FF0000;
+body {
+  color: $base-text-color;
+
+  > .red {
+   
+      color: $red-text-color;
+    
+  }
+}
