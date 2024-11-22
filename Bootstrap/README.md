@@ -1,0 +1,1 @@
+This project demonstrates a responsive pricing table layout using Bootstrap 4. The layout includes a navigation bar, a pricing header, pricing cards for different subscription plans, and a footer. All styles are applied using Bootstrap classes, without custom CSS.
